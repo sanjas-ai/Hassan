@@ -11,7 +11,7 @@
 
 - 🔭 Currently working on: **Advanced Node.js Concepts**
 - 💻 Specialized in: **Node.js, React.js, and Modern JavaScript**
-- 🌱 Expanding knowledge in: **Redux, Express.js, and React Native**
+- 🌱 Expanding knowledge in:  **Google Cloud** | ***AWS** | **Docker** | **SQL**
 - 👨‍💻 Portfolio: [github.com/sanjas-ai/Hassan](https://github.com/sanjas-ai/Hassan)
 - 📫 Contact: **creativehola@gmail.com**
 - ⚡ Fun fact: **Coffee enthusiast & surfing lover ☕🏄‍♂️**
